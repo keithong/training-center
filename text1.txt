@@ -1,1 +1,1 @@
-This is the modified text1.txt
+I will modify both text1 and text2
