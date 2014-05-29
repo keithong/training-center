@@ -1,2 +1,1 @@
-Lorem ipsum sit dolor
-Amet
+Modified text1
