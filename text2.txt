@@ -1,2 +1,1 @@
-The quick brown fox jumps over the lazy dog.
-The lazy dog jumps over the quick brown fox.
+I will modify text2 and text1 at the same time.
